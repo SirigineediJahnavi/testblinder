@@ -1,0 +1,139 @@
+.rowalignment{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+.meaningsearch{
+    background-color:rgb(211, 203, 203);
+    
+    margin-top:30px;
+    margin-bottom:30px;
+    border-radius:20px;
+    text-align:center;
+    padding:30px;
+
+
+}
+.meaning{
+    height:250px;
+    width:200px;
+    background-color:rgb(211, 203, 203);
+border-radius:20px;
+}
+.meaningblock{
+    border:1px solid black;
+    padding:30px;
+    margin:20px;
+    border-radius: 10px;
+}
+.buttoncolor {
+    background-color: rgb(53, 169, 182);
+    border-radius: 20px;
+    color: white;
+    padding:20px;
+    border:None;
+}
+.size{
+    height:250px;
+    width:250px;
+    margin:30px;
+
+}
+.content1{
+    margin:3%;
+    padding:2%;
+}
+.content2{
+    width:400px;
+    margin:3%;
+    padding:2%;
+    
+}
+
+.columnalignment{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.imagemedium{
+    height:300px;
+    margin:40px;
+    border-radius:20px;
+}
+.width{
+    width:400px;
+    color:rgb(53, 169, 182);
+}
+.imagesmall{
+    width:75px;
+    height:75px;
+    border-radius:10px;
+}
+.price{
+    padding:30px;
+    margin:30px;
+}
+.color{
+    color:rgb(53, 169, 182);
+
+}
+.firstandlast{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items:center;
+    width:700px;
+}
+.drag{
+    align-self: flex-end;
+}
+.redcolor{
+    color:red;
+}
+.imageverysmall{
+    height:30px;
+    width:30px;
+    border-radius:10px;
+}
+.global{
+    width:100vw;
+}
+.footer{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items: space-between;
+}
+.columnmargin{
+    margin:40px;
+}
+.background{
+    height:70vh;
+    width:60vw;
+}
+.backgroundup{
+    background-image:url("image1.jpg");
+    height:80vh;
+    width:60vw;
+    border-radius:20px;
+    background-size:cover;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+     
+}
+.enhance{
+    text-align:center;
+    font-weight: 400;
+    font-size:25px;
+    font-family:bold;
+}
+.global2{
+    width:30%;
+    align-items:flex-start;
+}
+.faq{
+    text-align:right;
+}
